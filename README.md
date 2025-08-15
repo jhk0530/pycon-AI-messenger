@@ -10,6 +10,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-005571?style=for-the-badge&logo=fastapi)
 ![OpenAI](https://img.shields.io/badge/OpenAI-1.97.1-412991?style=for-the-badge&logo=openai)
 
+[![Slide](https://img.shields.io/badge/Slide-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black)](https://docs.google.com/presentation/d/1v4ngcvDd4_IrCAl0xlAKd1ltSXErBueexrQImsusN3w/edit?usp=sharing)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/playlist?list=PLzgzQOH1LVuVHdopkWMR5osFyNhAEpv8F&si=Ymar88_k9yO0yTlE)
+
 Use this repo as a template to deploy a Python FastAPI server over Render.
 
 ## Steps
